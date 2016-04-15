@@ -1,18 +1,18 @@
 {
-    "name": "nodenticon",
-    "version": "0.0.1",
-    "description": "Identicon generator for NodeJS",
-    "main": "index.js",
-      "author": "Fernando Diaz <peke_buda@hotmail.com>",
-      "license": "MIT",
-      "private": false,
-      "keywords": [
-        "identicon"
-      ],
-    "dependencies": {
-        "pnglib": "latest"
-    },
-    "scripts": {
+  "name": "nodenticon",
+  "version": "0.1.0",
+  "description": "Identicon generator for NodeJS",
+  "main": "index.js",
+  "author": "Fernando Diaz <peke_buda@hotmail.com>",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "identicon"
+  ],
+  "dependencies": {
+    "pnglib": "latest"
+  },
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
